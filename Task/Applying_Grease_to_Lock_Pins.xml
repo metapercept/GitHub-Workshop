@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "technicalContent/dtd/task.dtd" [
+]>
+
+
+
+<task id = "id168DF0T0TNL"><title>Applying Grease to Lock Pins and
+Set Screws</title>
+<prolog><author>anamika sharma</author></prolog>
+<taskbody><steps><step><cmd>Gather four Lock Pins (C6) and apply
+Silicon Moly Blend or Pro-Long EP2 Plus grease to their threads.</cmd></step>
+<step><cmd>Engage each of the four Lock Pins (C6) to the mating
+threads through the Retaining Ring (C4). Fully tighten them with
+the appropriate size Hex Key (Level 3 Hold Point).<image href =
+"../Images/Lock_Pins.png"  height = "271.500pt" width = "281.250pt"
+/></cmd></step>
+<step><note><p>Stop the hoist in position to install the four Lock
+Pins (C6).</p></note>
+<cmd>Use a chain wrench to disengage the Retaining Ring (C4) from
+the mating threads on the Lower Sub (C2). Have an assistant to hold
+the Lower Sub (C2) with a second chain wrench if the hoist does
+not prevent it from spinning.</cmd></step>
+<step><cmd>Lower the Retaining Ring (C4) to rest on the shoulder
+of the Upper Sub (C1).</cmd></step>
+<step><cmd>Gather the External K-Seal (101901881), two Back-up Rings (102001446),
+and an O-Ring (102001451).</cmd></step>
+<step><cmd>Apply a thin layer of Silicon Moly Blend or Pro-Long
+EP2 Plus grease to the K-Seal (101901881), O-Ring (102001451), and
+Back-up Ring (102001446) and install them in the correct location
+according to the General Assembly Drawing, see figures below (Level
+3 Hold Point).<image href = "../Images/Apply_Grease.png"  height
+= "433.500pt" width = "360.749pt" /><image href = "../Images/Install.png"
+ height = "396.000pt" width = "342.000pt" /></cmd></step>
+<step><cmd>Fix two appropriate size chain wrenches on the OD of
+the Retaining Ring (C4) at 180° apart.</cmd></step>
+<step><cmd>With an assistant at the other chain wrench, evenly lift
+the Retaining Ring (C4) and turn it in the clockwise direction,
+simultaneously, in order to engage it to the mating threads on the
+Lower Sub (C2), see figure below.<image href = "../Images/RetainingRing_LowerSub.png"
+ height = "312.000pt" width = "285.000pt" /></cmd></step>
+<step><note><p>Do not allow any cross threading since it is necessary
+to manage the Retaining Ring’s weight while trying to get the threads
+engaged.</p></note>
+<cmd>Gather four Set Screws (C7) and apply Silicon Moly Blend or
+Pro-Long EP2 Plus grease to their threads.</cmd></step>
+<step><cmd>Engage one of the four Set Screws (C7) to the mating
+threads on the Load Ring (C3).</cmd></step>
+<step><cmd>Repeat the previous step for the remaining three Set
+Screws (C7) that are set 90° apart, see figure below.<image href
+= "../Images/Set_Screws.png"  height = "301.500pt" width = "279.000pt"
+/></cmd></step>
+<step><cmd>Use the hoist and Cloth Slings to orient the assembly
+horizontally and install the Lower Sub Thread Protector (101901880)
+and the Upper Sub Thread Protector (101901879) if necessary.</cmd></step></steps>
+<postreq><ol><li><p>Complete the Maintenance Check Sheet.</p></li>
+<li><p>Label the equipment per Global Maintenance Standards.</p></li>
+<li><p>Store the equipment according to Global Maintenance Standards.</p></li></ol></postreq></taskbody></task>

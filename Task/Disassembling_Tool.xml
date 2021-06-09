@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "technicalContent/dtd/task.dtd" [
+]>
+
+
+
+<task id = "id168DB0H0JQT"><title>Disassembling Tool</title>
+<prolog><author>anamika sharma</author></prolog>
+<taskbody><context><p>Perform the following steps to disassemble
+the tool.</p></context>
+<steps><step><cmd>Check the equipment ID number of the tool.</cmd>
+<substeps><substep><cmd>Record the ID number on the first page of
+the Maintenance Check Sheet.</cmd></substep></substeps></step>
+<step><cmd>Ensure the latest ST-GL-HAL-SSS-510 and GD-GL-HAL-TSS-910
+and assembly drawing is available at the work station.</cmd>
+<substeps><substep><cmd>Record these are available at the work station
+on the Maintenance Check Sheet.</cmd></substep></substeps></step>
+<step><cmd>Determine if the equipment is in the vertical position
+for disassembly.</cmd>
+<substeps><substep><cmd>Record the equipment position on the Maintenance
+Check Sheet.</cmd></substep></substeps></step>
+<step><cmd>Determine if the equipment has been operated or not operated.</cmd>
+<substeps><substep><cmd>Record if the equipment has been operated
+or not operated on the Maintenance Check Sheet.</cmd></substep></substeps></step>
+<step><cmd>Move the tool to the designated disassemble area.</cmd></step></steps></taskbody></task>

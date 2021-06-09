@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "technicalContent/dtd/concept.dtd" [
+]>
+
+
+
+<concept id = "id168DA700LJI"><title>Storage</title>
+<prolog><author>Amit Siddhartha</author>
+        <copyright>
+            <copyryear year="2016"/>
+            <copyrholder>Metapercept Technology Services LLP</copyrholder>
+        </copyright></prolog>
+<conbody><p>Refer below document for storage of tool:</p>
+<ul><li><p>ST-GL-HAL-SSS-510 for storage requirements</p></li></ul></conbody></concept>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "technicalContent/dtd/reference.dtd" [
+]>
+
+
+
+<reference id = "id168D90WI0J1"><title>Common Tools</title>
+<prolog><author>anamika sharma</author></prolog>
+<refbody><section><table frame = "all" colsep = "1" rowsep = "1"
+    id = "id168D9400QJ6">
+<tgroup cols="3" colsep="1" rowsep="1" outputclass="FormatA" id="tgroup_svb_3ky_zw">
+                    <colspec colnum="1" colname="1" colwidth="33*"/>
+                    <colspec colnum="2" colname="2" colwidth="33*"/>
+                    <colspec colnum="3" colname="3" colwidth="33*"/>
+                    <thead>
+                        <row rowsep="1">
+                            <entry namest="1" nameend="3">Common Tools</entry>
+                        </row>
+                        <row rowsep="1">
+                            <entry colname="1">Part Number</entry>
+                            <entry colname="2">Description</entry>
+                            <entry colname="3">Quantity</entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row rowsep="1">
+                            <entry colname="1">Shop Supplied</entry>
+                            <entry colname="2">Workbench</entry>
+                            <entry colname="3">1</entry>
+                        </row>
+                        <row rowsep="1">
+                            <entry colname="1">Shop Supplied</entry>
+                            <entry colname="2">Hoist (with 2,000 lb. minimum lifting
+                                capacity)</entry>
+                            <entry colname="3">1</entry>
+                        </row>
+                        <row rowsep="1">
+                            <entry colname="1">Shop Supplied</entry>
+                            <entry colname="2">Gin sheave c/w Endless Sling (Min. 1000 lb.
+                                capacity)</entry>
+                            <entry colname="3">1</entry>
+                        </row>
+                        <row rowsep="1">
+                            <entry colname="1">Shop Supplied</entry>
+                            <entry colname="2">Cloth Slings</entry>
+                            <entry colname="3">As required</entry>
+                        </row>
+                        <row rowsep="1">
+                            <entry colname="1">Shop Supplied</entry>
+                            <entry colname="2">24 in. and 36 in. Chain Tongs with extended chains
+                                (Min. 60 in.)</entry>
+                            <entry colname="3">1</entry>
+                        </row>
+                        <row rowsep="1">
+                            <entry colname="1">Shop Supplied</entry>
+                            <entry colname="2">Hex Key or Hex Socket or Hex Wrench Set</entry>
+                            <entry colname="3">1</entry>
+                        </row>
+                        <row rowsep="1">
+                            <entry colname="1">Shop Supplied</entry>
+                            <entry colname="2">1/4 in. Diameter Round Bar (made of Brass)</entry>
+                            <entry colname="3">1</entry>
+                        </row>
+                        <row rowsep="0">
+                            <entry colname="1">Shop Supplied</entry>
+                            <entry colname="2">1/4 in. Flat-head Screwdriver</entry>
+                            <entry colname="3">1</entry>
+                        </row>
+                    </tbody>
+                </tgroup></table></section></refbody></reference>

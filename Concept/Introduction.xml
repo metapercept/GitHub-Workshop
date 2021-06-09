@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "technicalContent/dtd/concept.dtd" [
+]>
+
+
+
+<concept id = "id168D8A00AW6"
+    xmlns:ditaarch = "http://dita.oasis-open.org/architecture/2005/">
+<title>Introduction</title>
+<prolog><author>anamika sharma</author>
+<metadata><keywords><keyword>Quick Union</keyword></keywords></metadata></prolog>
+<conbody><p>The 3 in. 15k, Quick Union provides a safe and fast
+method of making up the flow head and landing joint to the main
+landing string without rotation of the flow head assembly or damaging
+the premium connection.</p>
+<p>The 3 in. 15k, Quick Union manual contains maintenance procedures and
+applies to 101901873. A separate Maintenance Check Sheet (DBT-QU-MNT-3500.MCS)
+is required to be completed for all equipment maintenance. The user
+should review technology bulletins, tool alerts, locate the MCS
+and drawing (DBT-QU-3500). For any additional information, questions, or
+concerns contact Testing and Subsea (TSS) Global Technical Advisor.</p>
+<note><p>After a job, the tool must be completely disassembled and cleaned.
+Visually inspect all tool components per ST-GL-HAL-SSS-510. Any component
+that does not meet the visual inspection acceptance criteria must
+be replaced. All Single Cycle tools must be operated/functioned
+if this has not occurred previously. All Multi Cycle tools must
+be functioned to the appropriate disassemble position as directed
+in the manual to enable the disassembly of the tool. Consult the
+Global Maintenance Standard for Subsea on the inspection interval
+requirements and general maintenance standards. Record all components
+and elastomers replaced in the assembly on the Maintenance Check
+Sheet (DBT-QU-MNT-3500.MCS), and include all trace or batch numbers.
+All component trace or batch numbers must be additionally captured
+on the trace log sheet. For additional questions or concerns, contact
+the relevant TSS Global Technical Advisor.</p></note></conbody>
+<related-links>
+<link href = "Pre_Maintenance_Preparation.xml#id168DAI0009W"
+    outputclass = "fm:DITA Default Format"><linktext >Chapter 2:
+Pre Maintenance Preparation</linktext></link>
+<link href = "Maintenance_Assembly.xml#id168DB100SFR"
+    outputclass = "DITA Default Format"><linktext >Maintenance Assembly</linktext></link></related-links></concept>

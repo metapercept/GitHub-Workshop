@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "technicalContent/dtd/concept.dtd" [
+]>
+
+
+
+<concept id = "id168D9J0H0V0"><title>Handling</title>
+<prolog><author>anamika sharma</author></prolog>
+<conbody><p>Refer to below documents for handling of tool.</p>
+<ul><li><p>ST-GL-HAL-HSE-0101 for PPE</p></li>
+<li><p>GD-GL-HAL-SSS-801 for handling the equipment</p></li>
+<li><p>ST-GL-HAL-HSE-0606 for proper lifting technique</p></li></ul>
+<p>Ensure following points are considered while handling Quick Union
+tool:</p>
+<ul><li><p>Maintain a minimum of two points of support for all tool
+assemblies using proper Lifting Slings and Crane. Best practice
+is to use a double wrapped or endless sling.</p></li></ul>
+<p>Avoid clamping on critical unsupported sections noted below with <image
+href = "../Images/Symbol.png" placement="inline"  height = "15.000pt"
+width = "15.000pt" /> <xref  href = "#id168D9J0H0V0/id168DA40J0OA">See
+Figure</xref>below.</p>
+<note type = "caution"><p>Never attempt to lift a Quick Union individual
+components over 35 lb. manually. Use the supplied ½-13 UNC on the
+components with a Swivel and Sling.</p></note>
+<ul><li><p>If a horizontal vise use is required, use a stand to
+support the assembly in a level condition and to maintain a minimum
+of two points of support.</p></li>
+<li><p>The assembly should only be lifted vertically. See below
+for allowable methods of lifting.</p></li></ul><image href = "../Images/Quick_Union_Tool.png"
+ height = "305.250pt" width = "248.249pt" id = "id168DA40J0OA" /></conbody></concept>

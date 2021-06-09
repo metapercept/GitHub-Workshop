@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "technicalContent/dtd/task.dtd" [
+]>
+
+
+
+<task id = "id168DF0P2004"><title>Aligning Lock Pin Access Holes</title>
+<prolog><author>anamika sharma</author></prolog>
+<taskbody><steps><step><cmd>Align the Lock Pin access holes on the
+Retaining Ring (C4).</cmd></step>
+<step><note><p>Alignment between the Retaining Ring (C4) and the
+threaded Lock Pin holes in the Load Ring (C3) is achieved by engaging
+the Retaining Ring (C4) clockwise four complete revolutions to the
+mating threads on the Lower Sub (C2) and lifting the Lower Sub with
+the hoist to align the Lock Pin holes in both Retaining Ring (C4)
+and Load Ring (C3) with the Locking Segment (C5).</p></note>
+<cmd>Use the ¼ in. round bar to pass through the Lock Pin holes
+to check for proper alignment. If necessary, use the ¼ in. flat-head
+Screwdriver to rotate the Locking Segment (C5) to align its dimple
+to the Lock Pin hole, see figure below.<image href = "../Images/Lock_Pin_Hole.png"
+ height = "241.499pt" width = "352.500pt" /></cmd></step></steps></taskbody></task>

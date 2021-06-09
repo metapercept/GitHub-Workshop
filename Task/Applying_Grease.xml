@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "technicalContent/dtd/task.dtd" [
+]>
+
+
+
+<task id = "id168DF0900J9"><title>Applying Grease</title>
+<prolog><author>anamika sharma</author></prolog>
+<taskbody><steps><step><cmd>Locate the Upper Sub (C1) and use a
+Cloth Sling and the hoist to orient it vertically so that it is
+resting on its box thread end. Stabilize the Upper Sub (C1).</cmd></step>
+<step><cmd>Apply Silicon Moly Blend or Pro-Long EP2 Plus grease
+to the threads located immediately below the seal grooves.</cmd></step>
+<step><cmd>Gather the Locking Segments (C5) and apply moderate Silicon
+Moly Blend or Pro-Long EP2 Plus grease.</cmd></step>
+<step><note><p>The Silicon Moly Blend or Pro-Long EP2 Plus grease
+will keep the Locking Segments (C5) in place during the remaining
+assembly process.</p></note>
+<cmd>The Silicon Moly Blend or Pro-Long EP2 Plus grease will keep
+the Locking Segments (C5) in place during the remaining assembly
+process.<image href = "../Images/Locking_Segment.png"  height =
+"423.000pt" width = "225.749pt" /></cmd></step>
+<step><cmd>Locate the Retaining Ring (C4). Apply Silicon Moly Blend
+or Pro-Long EP2 Plus grease to its ID threads.</cmd></step>
+<step><cmd>Use the hoist and a Cloth Sling to lower the Retaining
+Ring (C4) onto the Upper Sub (C1).</cmd></step>
+<step><cmd>Allow the Retaining Ring (C4) to rest upon the shoulder
+of the Upper Sub (C1), see figure below.<image href = "../Images/Retaining_Ring.png"
+ height = "361.500pt" width = "279.000pt" /></cmd></step></steps></taskbody></task>

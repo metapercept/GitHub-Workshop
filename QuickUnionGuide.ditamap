@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
+<bookmap>
+    <booktitle>
+        <mainbooktitle>Quick Union</mainbooktitle>
+        <booktitlealt>User Guide</booktitlealt>
+    </booktitle>
+    <frontmatter>
+        <notices href="Topics/Disclaimer.xml"/>
+        <booklists>
+            <toc/>
+        </booklists>
+    </frontmatter>
+    <chapter href="Concept/Introduction.xml">
+        <topicref href="Concept/Legend_and_Auxiliary_Equipment.xml"/>
+        <topicref href="Concept/Handling.xml"/>
+        <topicref href="Concept/Storage.xml"/>
+        <topicref href="Reference/Consumables.xml"/>
+    </chapter>
+    <chapter href="Concept/Pre_Maintenance_Preparation.xml">
+        <topicref href="Task/Disassembling_Tool.xml"/>
+    </chapter>
+    <chapter href="Concept/Maintenance_Assembly.xml">
+        <topicref href="Task/Installing_ORings_and_Backup_Seals.xml"/>
+        <topicref href="Task/Applying_Grease_to_Lock_Pins.xml"/>
+        <topicref href="Task/Tightening_Load_Ring.xml"/>
+        <topicref href="Task/Aligning_Lock_Pin_Access_Holes.xml"/>
+        <topicref href="Task/Applying_Grease_to_Lock_Pins.xml"/>
+    </chapter>
+    <backmatter/>
+</bookmap>

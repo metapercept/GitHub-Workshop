@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "technicalContent/dtd/reference.dtd" [
+]>
+
+
+
+<reference id = "id168D8L00X3Z"><title>Assembly Tools</title>
+<prolog><author>anamika sharma</author></prolog>
+<refbody><section><table frame = "all" colsep = "1" rowsep = "1"
+    id = "id168D90A0Y5I">
+<tgroup cols="5" colsep="1" rowsep="1" outputclass="FormatA" id="tgroup_s1x_1ky_zw">
+     <colspec colnum="1" colname="1" colwidth="20*"/>
+     <colspec colnum="2" colname="2" colwidth="20*"/>
+     <colspec colnum="3" colname="3" colwidth="20*"/>
+     <colspec colnum="4" colname="4" colwidth="20*"/>
+     <colspec colnum="5" colname="5" colwidth="20*"/>
+     <thead>
+      <row rowsep="1">
+       <entry namest="1" nameend="5">Assembly Tools</entry>
+      </row>
+      <row rowsep="1">
+       <entry colname="1">Item</entry>
+       <entry colname="2">Part Number</entry>
+       <entry colname="3">Reference</entry>
+       <entry colname="4">Description</entry>
+       <entry colname="5">Quantity</entry>
+      </row>
+     </thead>
+     <tbody>
+      <row rowsep="1">
+       <entry colname="1"><image href="../Images/Tool6_LubricatorValve.png" height="26.799pt"
+         width="62.399pt" id="image_xbx_1ky_zw"/></entry>
+       <entry colname="2">101848149</entry>
+       <entry colname="3">DBT-LV-3520</entry>
+       <entry colname="4">Tool No. 6, 3 in. 15K Lubricator Valve</entry>
+       <entry colname="5">1</entry>
+      </row>
+      <row rowsep="1">
+       <entry colname="1"><image href="../Images/Tool7_LubricatorValve.png" height="27.600pt"
+         width="54.400pt" id="image_ybx_1ky_zw"/></entry>
+       <entry colname="2">101848150</entry>
+       <entry colname="3">DBT-LV-3521</entry>
+       <entry colname="4">Tool No. 7, 3 in. 15K Lubricator Valve</entry>
+       <entry colname="5">1</entry>
+      </row>
+      <row rowsep="1">
+       <entry colname="1"><image href="../Images/Lower_Sub_Thread_Protector.png" height="29.599pt"
+         width="22.399pt" id="image_zbx_1ky_zw"/></entry>
+       <entry colname="2">101901880</entry>
+       <entry colname="3">DBT-QU-3507</entry>
+       <entry colname="4">Lower Sub Thread Protector</entry>
+       <entry colname="5">1</entry>
+      </row>
+      <row rowsep="0">
+       <entry colname="1"><image href="../Images/Upper_Sub_Thread_Protector.png" height="28.400pt"
+         width="23.600pt" id="image_acx_1ky_zw"/></entry>
+       <entry colname="2">101901879</entry>
+       <entry colname="3">DBT-QU-3506</entry>
+       <entry colname="4">Upper Sub Thread Protector</entry>
+       <entry colname="5">1</entry>
+      </row>
+     </tbody>
+    </tgroup></table></section></refbody></reference>

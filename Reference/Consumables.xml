@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "technicalContent/dtd/reference.dtd" [
+]>
+
+
+
+<reference id = "id168D97007RS"><title>Consumables</title>
+<prolog><author>anamika sharma</author></prolog>
+<refbody><section><table frame = "all" colsep = "1" rowsep = "1"
+    id = "id168D9D00NEO">
+<tgroup cols="3" colsep="1" rowsep="1" outputclass="FormatA" id="tgroup_xbl_4ky_zw">
+                    <colspec colnum="1" colname="1" colwidth="33*"/>
+                    <colspec colnum="2" colname="2" colwidth="33*"/>
+                    <colspec colnum="3" colname="3" colwidth="33*"/>
+                    <thead>
+                        <row rowsep="1">
+                            <entry namest="1" nameend="3">Consumables</entry>
+                        </row>
+                        <row rowsep="1">
+                            <entry colname="1">Part Number</entry>
+                            <entry colname="2">Description</entry>
+                            <entry colname="3">Quantity</entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row rowsep="1">
+                            <entry colname="1">102165633</entry>
+                            <entry colname="2">Non-Combustible Spray Lubricant (Preferably
+                                WD-40)</entry>
+                            <entry colname="3">As required</entry>
+                        </row>
+                        <row rowsep="1">
+                            <entry colname="1">101240777</entry>
+                            <entry colname="2">Grease - Silicon Moly Blend - 5 Gal Container - N2
+                                chamber use</entry>
+                            <entry colname="3">As required</entry>
+                        </row>
+                        <row rowsep="1">
+                            <entry colname="1">100066647</entry>
+                            <entry colname="2">Grease - Pro-long EP2 Plus - 1 Gal</entry>
+                            <entry colname="3">As required</entry>
+                        </row>
+                        <row rowsep="1">
+                            <entry colname="1">100066644</entry>
+                            <entry colname="2">Grease - Pro-long EP2 Plus - 40 Pound (18 kg)
+                                PAIL</entry>
+                            <entry colname="3">As required</entry>
+                        </row>
+                        <row rowsep="1">
+                            <entry colname="1">101084167</entry>
+                            <entry colname="2">92HTE10008 Seal Lubct Dow Corning 112 Si 18.1 kg
+                                Cntr</entry>
+                            <entry colname="3">As required</entry>
+                        </row>
+                        <row rowsep="0">
+                            <entry colname="1">100006741</entry>
+                            <entry colname="2">92HTE10007 Seal Lubct Dow Corning 112 Si 5.3 oz
+                                Tube</entry>
+                            <entry colname="3">As required</entry>
+                        </row>
+                    </tbody>
+                </tgroup></table></section></refbody></reference>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "technicalContent/dtd/concept.dtd" [
+]>
+
+<?Fm Condition DITA-Conref Blue NO_OVERRIDE show AsIs?>
+
+
+<concept id = "id168D90PM0ZT"
+    xmlns:ditaarch = "http://dita.oasis-open.org/architecture/2005/">
+<title>Legend and Auxiliary Equipment</title>
+<prolog><author>Amit Siddhartha</author>
+        <metadata>
+            <keywords>
+                <indexterm>Parts</indexterm>
+                <indexterm>Assembly Tools</indexterm>
+            </keywords>
+        </metadata></prolog>
+<conbody>
+        <p><b>Assembly Tools Table</b></p>
+        <table>
+            <tgroup cols="-dita-use-conref-target"
+                conref="../Reference/Assembly_Tools.xml#id168D8L00X3Z/tgroup_s1x_1ky_zw">
+                <tbody>
+                    <row>
+                        <entry/>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <p><b>Common Tools Table</b></p>
+        <table>
+            <tgroup cols="-dita-use-conref-target"
+                conref="../Reference/Common_Tools.xml#id168D90WI0J1/tgroup_svb_3ky_zw">
+                <tbody>
+                    <row>
+                        <entry/>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <p id="id168DBG00ZJV"><b>Consumables Table</b></p>
+        <table>
+            <tgroup cols="-dita-use-conref-target"
+                conref="../Reference/Consumables.xml#id168D97007RS/tgroup_xbl_4ky_zw">
+                <tbody>
+                    <row>
+                        <entry/>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </conbody></concept>

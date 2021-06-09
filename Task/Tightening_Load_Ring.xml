@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "technicalContent/dtd/task.dtd" [
+]>
+
+
+
+<task id = "id168DF0FN04C"><title>Tightening Load Ring</title>
+<prolog><author>anamika sharma</author></prolog>
+<taskbody><steps><step><cmd>Locate the Load Ring (C3) and carefully
+lower it onto the mating threads on the OD of the Upper Sub (C1).</cmd></step>
+<step><note><p>Use an assistant to help lower the Load Ring (C3)
+and to avoid pinch points.</p></note>
+<cmd>Hand turn (to prevent any cross-threading) the Load Ring (C3)
+in the clockwise direction at least two complete revolutions in
+order to engage the threads.</cmd></step>
+<step><cmd>Attach the appropriate size chain wrench in the uppermost
+position and continue to tighten the Load Ring (C3) until the chain
+wrench meets the face of the Retaining Ring (C4) that is already
+mounted on the Upper Sub (C1), see figure below.<image href = "../Images/Load_Ring.png"
+ height = "371.250pt" width = "317.999pt" /></cmd></step>
+<step><cmd>Use the Lower Sub (C2) in combination with the chain
+wrench to complete the tightening process.</cmd></step>
+<step><cmd>Apply constant weight of approximately 325 lbs. to the
+face of the Lower Sub (C2) in order to keep it engaged with the
+mating profile on the Load Ring (C3), see figure below.<image href
+= "../Images/Lower_Sub.png"  height = "415.500pt" width = "350.250pt"
+/></cmd></step>
+<step><note><p>Do not allow the Lower Sub (C2) profile to skip across
+the mating profile due to inadequate weight as it will cause wear.</p></note>
+<cmd>Ensure that the threaded Lock Pin (C6) holes in the Load Ring
+(C3) are aligned with the Locking Segment (C5) once the Load Ring
+(C3) is completely tightened.</cmd></step></steps></taskbody></task>

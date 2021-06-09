@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "technicalContent/dtd/concept.dtd" [
+]>
+
+
+
+<concept id = "id168DB100SFR"
+    xmlns:ditaarch = "http://dita.oasis-open.org/architecture/2005/">
+<title>Chapter 3: Maintenance Assembly</title>
+<prolog><author>anamika sharma</author></prolog>
+<conbody><note><p>Ensure that the Maintenance Check Sheet (DBT-QU-MNT-3500.MCS) and
+correct assembly drawings are available at the work station prior
+to commencing the work. Review previous job specific information/reports,
+and previous maintenance documentation for the specific tool. Unless
+otherwise stated, all connections are right hand threads. All components
+must be visually inspected using the Global Maintenance Standards.
+All function and pressure testing must be recorded on a calibrated
+chart recorder or other calibrated recording device.</p></note>
+<note type = "warning"><p>Use of this manual requires that all XXXXXXXXXX
+HSE Standards and Guidelines are followed as per global and/or local
+requirements.</p><p>Only grease listed in <xref outputclass = "fm:"
+href = "Legend_and_Auxiliary_Equipment.xml#id168D90PM0ZT/id168DBG00ZJV">Consumables
+Table</xref>of Introduction chapter are to be used on metal components
+and areas that are not exposed to Nitrogen.</p><p>Catch excess fluids
+and dispose of in accordance with the Global and Local HSE Standards
+and Guidelines. Always be positioned safely when opening any area
+of equipment that can have trapped pressure.</p></note></conbody>
+<related-links>
+<link href = "Introduction.xml#id168D8A00AW6"
+    outputclass = "DITA Default Format"><linktext >Introduction</linktext></link>
+<link href = "Pre_Maintenance_Preparation.xml#id168DAI0009W"
+    outputclass = "DITA Default Format"><linktext >Pre-MaintenancePreparation</linktext></link></related-links></concept>
